@@ -38,8 +38,9 @@ Berikut ini Cheet Sheet kalau lupa dengan basicnya:
 14. Git Commit -a -m "Pesan yang disampaikan"
 15. Git Commit -am "Pesan yang disampaikan"
 16. Git Push -u origin master
-17. Git Pull
-18. Git Fetch
+17. Git Push -u origin main
+18. Git Pull
+19. Git Fetch
 
 Berikut ini alias yang sering di gunakan:
 
