@@ -1,6 +1,7 @@
 # ilham-belajar-git
 
 Repository ini berisikan tentang pembelajaran git yang telah di pelajarin dab akan terus di update. Thx
+//Untuk file.html akan digunakan untuk membuat pages khusus pembelajaran git ini
 
 Berikut ini key kalau lupa dengan basicnya:
 
