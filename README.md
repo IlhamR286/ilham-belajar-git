@@ -1,2 +1,45 @@
 # ilham-belajar-git
-Mempelajari Git Sebagai Version Control dan Git Hub Sebagai Cloud Repo.
+
+Repository ini berisikan tentang pembelajaran git yang telah di pelajarin dab akan terus di update. Thx
+
+Berikut ini key kalau lupa dengan basicnya:
+
+1. Git = Version Control System
+2. Git Hub = Cloud Service yang menggunakan Git didalamnya
+3. Repository = Tempat penyimpanan directory file
+4. Branch = Memecah bagian menjadi cabag
+5. Merge = Menggabungkan cabang yang sudah di lakukan
+6. Remote = Menghubungkan Github dengan laptop kita menggunakan Git
+7. Clone = Menduplikat yang ada di repo. ke device offline kita
+8. Hash = Id setiap commit yang di lakukan
+9. Commit = Menyimpan snapshot dari repo
+10. Push = Mengirim commit ke repo
+11. Pull = Mengambil commit dari repo
+12. Checkout = Berpindah ke sebuah commit / branch
+13. Fork = Menduplikat repo oranglain ke repo kita dengan adanya sumber repo
+14. Git Ignore = Hal yang tidak akan di masukan ke dalam git hub
+15. Git Rebase = Memindahkan commit ke depan
+
+Berikut ini Cheet Sheet kalau lupa dengan basicnya:
+
+1. Git Clone
+2. Git Remote
+3. Git Remote add NamaRemote url_repo
+4. Git Status
+5. Git Branch
+6. Git Branch Nama_Branch
+7. Git Checkout
+8. Git Checkout -b Nama_Branch
+9. Git Merge
+10. Git add "namafile.txt"
+11. Git add .
+12. Git Commit -M "Pesan yang disampaikan"
+13. Git Commit -a -m "Pesan yang disampaikan"
+14. Git Commit -am "Pesan yang disampaikan"
+15. Git Push -u origin master
+16. Git Pull
+17. Git Fetch
+
+Berikut ini alias yang sering di gunakan:
+
+1. alias graph="git log --all --decorate --oneline --graph"
