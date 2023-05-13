@@ -24,21 +24,22 @@ Berikut ini Cheet Sheet kalau lupa dengan basicnya:
 
 1. Git Clone
 2. Git Remote
-3. Git Remote add NamaRemote url_repo
-4. Git Status
-5. Git Branch
-6. Git Branch Nama_Branch
-7. Git Checkout
-8. Git Checkout -b Nama_Branch
-9. Git Merge
-10. Git add "namafile.txt"
-11. Git add .
-12. Git Commit -M "Pesan yang disampaikan"
-13. Git Commit -a -m "Pesan yang disampaikan"
-14. Git Commit -am "Pesan yang disampaikan"
-15. Git Push -u origin master
-16. Git Pull
-17. Git Fetch
+3. Git Remote -v
+4. Git Remote add NamaRemote url_repo
+5. Git Status
+6. Git Branch
+7. Git Branch Nama_Branch
+8. Git Checkout
+9. Git Checkout -b Nama_Branch
+10. Git Merge
+11. Git add "namafile.txt"
+12. Git add .
+13. Git Commit -M "Pesan yang disampaikan"
+14. Git Commit -a -m "Pesan yang disampaikan"
+15. Git Commit -am "Pesan yang disampaikan"
+16. Git Push -u origin master
+17. Git Pull
+18. Git Fetch
 
 Berikut ini alias yang sering di gunakan:
 
